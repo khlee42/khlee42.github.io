@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>organizational structure | Kyunghee Lee</title>
+    <link>https://khlee42.github.io/tag/organizational-structure/</link>
+      <atom:link href="https://khlee42.github.io/tag/organizational-structure/index.xml" rel="self" type="application/rss+xml" />
+    <description>organizational structure</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khlee42.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>organizational structure</title>
+      <link>https://khlee42.github.io/tag/organizational-structure/</link>
+    </image>
+    
+    <item>
+      <title>Does IT Matter to Acquisitions? The Impacts of IT Distance on Post-Acquisition Performance</title>
+      <link>https://khlee42.github.io/publication/itdistance/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://khlee42.github.io/publication/itdistance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking IT Seriously in Acquisitions</title>
+      <link>https://khlee42.github.io/publication/itdistance-practice/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://khlee42.github.io/publication/itdistance-practice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Cross-Country Cultural Differences on Post-M&amp;A Performance</title>
+      <link>https://khlee42.github.io/publication/culture/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://khlee42.github.io/publication/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring IT risk of interfirm collaboration: the impact of IT asset specificity on alliance design and performance</title>
+      <link>https://khlee42.github.io/publication/itrisk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://khlee42.github.io/publication/itrisk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
