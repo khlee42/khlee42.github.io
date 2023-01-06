@@ -5,7 +5,7 @@
     <link>https://khlee42.github.io/publication/</link>
       <atom:link href="https://khlee42.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://khlee42.github.io/media/icon_hu1d7347eaca699f201dbf950124e2b629_12175_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Does IT Matter to Acquisitions? The Impacts of IT Distance on Post-Acquisition Performance</title>
       <link>https://khlee42.github.io/publication/itdistance/</link>
-      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://khlee42.github.io/publication/itdistance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Ride-Hailing Services on Transportation Mode Choices: Evidence from Traffic and Transit Ridership</title>
+      <link>https://khlee42.github.io/publication/lee-2022/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://khlee42.github.io/publication/lee-2022/</guid>
       <description></description>
     </item>
     
@@ -65,14 +73,6 @@
       <link>https://khlee42.github.io/publication/equalaccess/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://khlee42.github.io/publication/equalaccess/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impact of Ride-Hailing Services on Transportation Mode Choices: Evidence from Traffic and Transit Ridership</title>
-      <link>https://khlee42.github.io/publication/lee-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://khlee42.github.io/publication/lee-2022/</guid>
       <description></description>
     </item>
     
